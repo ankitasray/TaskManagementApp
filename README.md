@@ -44,8 +44,8 @@ Ensure that you have the following installed on your machine:
 ```
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/task-management-app.git
-   cd task-management-app
+   git clone https://github.com/your-username/TaskManagementApp.git
+   cd TaskManagementApp
    ```
 
 2. **Install dependencies**:
